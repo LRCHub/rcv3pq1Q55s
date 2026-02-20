@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛の逆流 (REMIX by PARKGOLF)",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-20T15:47:45.739262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の逆流",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_愛の逆流_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の逆流 (REMIX by PARKGOLF)",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/02_愛の逆流_(REMIX_by_PARKGOLF)_indigo_la_End.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の逆流",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_愛の逆流_indigo_la_End.txt"
+    }
+  ]
+}
